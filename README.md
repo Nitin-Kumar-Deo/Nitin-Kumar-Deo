@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-kumar-deo&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-kumar-deo" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱  **React.js, Next js, redu**
 
 - 💬 Ask me about **Data Structures & Algorithm**
 
